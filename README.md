@@ -8,8 +8,7 @@ How do we track our expenses successfully? What about our personal capital? How 
 <b> Proposed Solution : </b>
 
 This Project proposes an “Expense Tracking App”. Luckily, Expense-Trcker is more than a money tracker, it's also one of the best savings apps to help you with money management. Keep track of your personal expenses and compare them to your monthly income with the budget planner. Keep track of train, cab, movie, event bookings, and more. Keep your monthly budget in mint condition. This app will helpus to become a budgeting masters and we can start saving money with Expense-Trcker.
-
-<img width="1000" alt="sampleimages" src="https://camo.githubusercontent.com/1589c7173cdc6cf3fcb02ccaed3f99bf4278147efffb0a7be631a5d3e47dcf9d/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4275636b6f696425323041707025323053637265656e73686f742e706e673f616c743d6d6564696126746f6b656e3d64646561646366332d616630622d343434302d393861332d613534613734326361323638>
+<img width="1000" alt="sampleimages" src="https://firebasestorage.googleapis.com/v0/b/login-ea5e2.appspot.com/o/Buckoid%20App%20Screenshot.png?alt=media&token=ddeadcf3-af0b-4440-98a3-a54a742ca268">
 
 
 <b> Functionality & Concepts used : </b>
