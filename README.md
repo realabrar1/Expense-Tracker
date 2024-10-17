@@ -12,8 +12,6 @@ This Project proposes an “Expense Tracking App”. Luckily, Buckoid is more th
 <img width="1000" alt="sampleimages" src="https://firebasestorage.googleapis.com/v0/b/login-ea5e2.appspot.com/o/Buckoid%20App%20Screenshot.png?alt=media&token=ddeadcf3-af0b-4440-98a3-a54a742ca268">
 
 
-<img width="1000" alt="Playstore App Image" src="https://firebasestorage.googleapis.com/v0/b/login-ea5e2.appspot.com/o/BUCKOID%20(1).png?alt=media&token=2e757b57-29d7-4bca-a5b2-e1d4e8142745">
- 
 <b> Functionality & Concepts used : </b>
 
 The App has a very simple and interactive interface which helps the user to track his Expenses. Following are a few android concepts used to achieve the functionalities in the app :
