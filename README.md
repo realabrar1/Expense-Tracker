@@ -1,5 +1,5 @@
 # Android-Study-Jams
-Buckoid-Android-App
+Expense-Trcker-Android-App
 
 <b> Problem Statement: </b>
 
@@ -7,9 +7,9 @@ How do we track our expenses successfully? What about our personal capital? How 
 
 <b> Proposed Solution : </b>
 
-This Project proposes an “Expense Tracking App”. Luckily, Buckoid is more than a money tracker, it's also one of the best savings apps to help you with money management. Keep track of your personal expenses and compare them to your monthly income with the budget planner. Keep track of train, cab, movie, event bookings, and more. Keep your monthly budget in mint condition. This app will helpus to become a budgeting masters and we can start saving money with Buckoid.
+This Project proposes an “Expense Tracking App”. Luckily, Expense-Trcker is more than a money tracker, it's also one of the best savings apps to help you with money management. Keep track of your personal expenses and compare them to your monthly income with the budget planner. Keep track of train, cab, movie, event bookings, and more. Keep your monthly budget in mint condition. This app will helpus to become a budgeting masters and we can start saving money with Expense-Trcker.
 
-<img width="1000" alt="sampleimages" src="https://firebasestorage.googleapis.com/v0/b/login-ea5e2.appspot.com/o/Buckoid%20App%20Screenshot.png?alt=media&token=ddeadcf3-af0b-4440-98a3-a54a742ca268">
+<img width="1000" alt="sampleimages" src="https://firebasestorage.googleapis.com/v0/b/login-ea5e2.appspot.com/o/Expense-Trcker%20App%20Screenshot.png?alt=media&token=ddeadcf3-af0b-4440-98a3-a54a742ca268">
 
 
 <b> Functionality & Concepts used : </b>
@@ -21,10 +21,4 @@ The App has a very simple and interactive interface which helps the user to trac
 - Bottom Navigation: It has bottom navigation to navigate between top screens and gives user a more enhanced UI/Ux interface.
 - RecyclerView : To present the list of different transactions done we used the efficient recyclerview.
 - LiveData & Room Database : We are using LiveData to store & Update new transactions.
-
-<b> Application Future Scope : </b>
-
-
-
-Once the app is fully launched and functional we plan to add more features like Backup in Google Drive using Google Drive API so that all the user data remains saved. Then we are planning to add Collect Coins & Badges on certain no of transactions and unlock more features so that the user comes to the app daily and stores his transactions each time. Then we are planning to include Goal saving features so that users can plan for certain goals and achieve them like Vacation trips, Buying a mobile, etc. Also, we are planning to include more visual data representation so that users can have a very clear look and compare and stay within their Budget.
 
